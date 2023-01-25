@@ -1,4 +1,5 @@
-# Company Profile Web Design by Aldiansyah
+# PETrify.
 
-Figma link: [Go to Figma]()
-Miro link: [Go to Miro]()
+### Figma link: [Go to Figma]()
+
+### Miro link: [Go to Miro]()
