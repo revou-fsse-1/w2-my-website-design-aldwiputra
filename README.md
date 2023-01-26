@@ -4,6 +4,8 @@
 
 This is a company profile website created for a fictional veterinary clinic 🐾 named Petrify. I created two pages for the whole website, they are 🏠 Homepage and 📕 Contact Page. I have worked hard on them, so I really hope you'd like them ✌🏼.
 
+Inspiration: [Dribbble](https://dribbble.com)
+
 ## <p align="center">:rocket: Click the buttons below to check :rocket: </p>
 
 <p align="center">
