@@ -9,10 +9,10 @@ Inspiration: [Dribbble](https://dribbble.com)
 ## <p align="center">:rocket: Click the buttons below to check :rocket: </p>
 
 <p align="center">
-<a href="https://www.figma.com/file/5P3mRh2Fl4s3MASrFe0wkf/Week-2-Assignment?t=S0wvlWoYGEMrq0VY-1">
+<a target="_blank" href="https://www.figma.com/file/5P3mRh2Fl4s3MASrFe0wkf/Week-2-Assignment?t=S0wvlWoYGEMrq0VY-1">
   <img height="50" title="Figma" alt="Go to Figma" src="https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-figma-button.png">
 </a> &#xa0; &#xa0;
-<a href="https://miro.com/app/board/uXjVODIYpqA=/?share_link_id=211992183948">
+<a target="_blank" href="https://miro.com/app/board/uXjVODIYpqA=/?share_link_id=211992183948">
   <img height="50" title="Miro" alt="Go to Miro" src="https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-miro-button.png">
 </a> &#xa0; &#xa0;
 </p>
